@@ -1,2 +1,2 @@
-# moe_route_tracing
-MoE interpretability by token route tracing.
+# Scratch work for semantic/syntactic features of experts in MoE models
+
